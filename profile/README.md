@@ -1,7 +1,7 @@
-# Welcome to [Your Organization Name] 👋
+# Welcome to Sumangcodes 👋
 
 ## 🌟 About Us
-[Your Organization Name] is committed to building innovative solutions in the field of **[Industry/Domain]**. We specialize in creating scalable, open-source projects and offering educational resources to empower developers and organizations globally.
+Sumangcodes is committed to building innovative solutions in the field of Web applications. We specialize in creating scalable, open-source projects and offering educational resources to empower developers and organizations globally.
 
 Our mission is to **[Brief Mission Statement]**, and we believe in sharing knowledge and collaborating with the community to make a positive impact.
 
