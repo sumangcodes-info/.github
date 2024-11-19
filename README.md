@@ -1,9 +1,3 @@
-# .github
-
-Here's a sample content for the `README.md` file that you can use for your organization's profile:
-
----
-
 # Welcome to [Your Organization Name] 👋
 
 ## 🌟 About Us
