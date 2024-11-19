@@ -7,7 +7,7 @@ Our mission is to architect and design web application using event driven archit
 
 ## 🚀 What We Do
 Our primary areas of focus are:
-- 🛠️ **Open-source Development**: Contributing to and creating open-source tools and libraries.
+- 🛠️ **Web Application Development**: Contributing to and creating open-source tools and libraries.
 - 🎓 **Education**: Providing tutorials, courses, and workshops on modern technologies.
 - 🌐 **Innovation**: Working with cutting-edge tech like AI, cloud computing, blockchain, and more.
 
