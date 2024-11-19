@@ -3,7 +3,7 @@
 ## 🌟 About Us
 Sumangcodes is committed to building innovative solutions in the field of Web applications. We specialize in creating scalable, open-source projects and offering educational resources to empower developers and organizations globally.
 
-Our mission is to **[Brief Mission Statement]**, and we believe in sharing knowledge and collaborating with the community to make a positive impact.
+Our mission is to architect and design web application using event driven architecture and microservices, and we believe in sharing knowledge and collaborating with the community to make a positive impact.
 
 ## 🚀 What We Do
 Our primary areas of focus are:
