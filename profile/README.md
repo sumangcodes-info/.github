@@ -13,7 +13,7 @@ Our primary areas of focus are:
 
 ## 🏆 Featured Projects
 Here are some of the projects we're currently working on or have recently completed:
-- **[Clinic App](https://github.com/sumangcodes-info/1)**: A brief description of the first project, what it does, and why it's useful.
+- **[Clinic App](https://github.com/sumangcodes-info/projects/1)**: A brief description of the first project, what it does, and why it's useful.
 - **[Project Name 2](https://github.com/your-org/project2)**: A summary of another major project with a link to its repository.
 - **[Project Name 3](https://github.com/your-org/project3)**: A small description that captures what makes this project unique.
 
